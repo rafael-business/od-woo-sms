@@ -1,0 +1,69 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.js .postbox .hndle, .js .widget .widget-top {
+    cursor: default;
+    margin: 0 !important;
+}
+
+.empty-container {
+    display: flow-root;
+    min-height: 100px;
+    margin: 4px 25px 0;
+    text-align: center;
+    line-height: 244px;
+}
+
+.field {
+    margin-bottom: 12px;
+    padding: 0 8px 0 2px;
+}
+
+.field label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.field fieldset legend {
+    font-weight: 600;
+    margin-bottom: 8px; 
+}
+
+.field fieldset label,
+.field fieldset input[type=checkbox] {
+    display: inline-block;
+}
+
+.field input[type=text], 
+.field input[type=password], 
+.field select,
+.field textarea {
+    width: 100%;
+    max-width: 100%;
+}
+
+#select-to {
+    margin-bottom: 4px;
+}
+
+.wp-core-ui select[multiple] {
+    height: 302px;
+    padding: 0;
+}
+
+.od_woo_sms_to {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+
+#dashboard-widgets .postbox-container {
+    box-sizing: border-box;
+    padding-right: 20px;
+}
