@@ -1,2 +1,2 @@
-# od-woo-sms
-OD WooCommerce SMS é um plugin integrado ao Zenvia, que dispara um SMS com o status do pedido para o comprador.
+# OD WooCommerce SMS
+É um plugin integrado ao Zenvia, que dispara um SMS, com uma mensagem personalizada, para o comprador, sempre que o status do pedido mudar.
